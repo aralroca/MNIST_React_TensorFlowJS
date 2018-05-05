@@ -6,3 +6,8 @@ This repo is a POC about using a trained Keras model with MNIST database with **
 
 * yarn install
 * npm start
+
+
+## DEMO
+
+* http://aralroca.github.io/MNIST_React_TensorFlowJS
