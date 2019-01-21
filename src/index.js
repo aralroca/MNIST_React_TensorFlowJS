@@ -21,7 +21,10 @@ class App extends Component {
         >
         {
           (predictedNumber, predictions) => (
-            <h1>{predictedNumber}</h1>
+            <>
+              <h4>Predicted number:</h4>
+              <h2>{predictedNumber}</h2>
+            </>
           )
         }
         </NumberRecognition>
