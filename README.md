@@ -4,9 +4,8 @@ This repo is a POC about using a trained Keras model with MNIST database with **
 
 ## Getting started
 
-* yarn install
+* npm install
 * npm start
-
 
 ## DEMO
 
