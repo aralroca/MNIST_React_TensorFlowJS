@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { render } from 'react-dom';
 
 export default class DrawableCanvas extends Component {
   constructor(props){
@@ -15,6 +14,7 @@ export default class DrawableCanvas extends Component {
     this.ctx = this.canvas.getContext('2d');
   }
 
+  // FIXME: Replace to componentDidUpdate
   componentWillReceiveProps(nextProps) {
     if(nextProps.clear){
       this.resetCanvas();
@@ -113,4 +113,3 @@ export default class DrawableCanvas extends Component {
     );
   }
 }
-

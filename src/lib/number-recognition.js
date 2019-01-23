@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import { render } from 'react-dom';
 import * as tf from '@tensorflow/tfjs';
 import DrawableCanvas from './drawable-canvas';
-import './style.css';
 
 const DEFAULT_WIDTH = 400;
 const DEFAULT_HEIGHT = 400;
