@@ -22,8 +22,15 @@ Predict numbers using MNIST database with **TensorFlow.js** and **React.js**!
 
 ## Getting started
 
-* > npm install --save mnist-react-tfjs
-* > import NumberRecognition from 'mnist-react-tfjs';
+```
+npm install --save mnist-react-tfjs
+```
+
+Then:
+
+```
+import NumberRecognition from 'mnist-react-tfjs';
+```
 
 ## Code
 
