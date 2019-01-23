@@ -1,7 +1,7 @@
 # mnist-react-tfjs 
 ## Number recognition with MNIST data (React.js and TensorFlow.js)
 
-![npm version](https://img.shields.io/badge/npm-v0.1.0-blue.svg) 
+![npm version](https://img.shields.io/badge/npm-v0.1.1-blue.svg) 
 
 Predict numbers using MNIST database with **TensorFlow.js** and **React.js**!
 
