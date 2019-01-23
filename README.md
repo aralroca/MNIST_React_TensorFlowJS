@@ -1,11 +1,11 @@
-# Number recognition with MNIST data (React.js and TensorFlow.js)
+# mnist-react-tfjs 
+## Number recognition with MNIST data (React.js and TensorFlow.js)
 
-This repo is a POC about using a trained Keras model with MNIST database with **TensorFlow.js** and **React.js**!
+![npm version](https://img.shields.io/badge/npm-v0.1.0-blue.svg) 
 
-## Getting started
+Predict numbers using MNIST database with **TensorFlow.js** and **React.js**!
 
-* npm install
-* npm start
+*author: Aral Roca <aral-rg@hotmail.com>*
 
 ## DEMO
 
@@ -13,9 +13,21 @@ This repo is a POC about using a trained Keras model with MNIST database with **
 
 ![demo](https://aralroca.github.io/MNIST_React_TensorFlowJS/assets/behavior.gif)
 
-# Code
 
-## With RenderProps:
+## Requirements
+
+* react - Recommended ^16.7.0
+* react-dom - Recommended ^16.7.0
+* @tensorflow/tfjs - Recommended ^0.14.2
+
+## Getting started
+
+* > npm install --save mnist-react-tfjs
+* > import NumberRecognition from 'mnist-react-tfjs';
+
+## Code
+
+### With RenderProps:
 
 ````
 <NumberRecognition
@@ -30,7 +42,7 @@ This repo is a POC about using a trained Keras model with MNIST database with **
 </NumberRecognition>
 ````
 
-## Without RenderProps:
+### Without RenderProps:
 
 ````
 <NumberRecognition

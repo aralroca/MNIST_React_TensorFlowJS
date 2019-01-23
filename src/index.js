@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-import DrawableCanvas from './drawable-canvas';
-import NumberRecognition from './number-recognition';
+import NumberRecognition from './lib/number-recognition';
 import './style.css';
 
 const CANVAS_WIDTH = 400;

@@ -1,0 +1,9 @@
+{
+  "presets": [
+    "@babel/preset-react",
+    ["@babel/preset-env", { "exclude": ["transform-regenerator"] }]
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-object-rest-spread",
+  ]
+}
