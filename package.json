@@ -3,7 +3,6 @@
   "description": "This repo is a POC about using a trained Keras model with MNIST database with TensorFlow.js and React.js!",
   "homepage": "http://aralroca.github.io/MNIST_React_TensorFlowJS",
   "version": "0.1.0",
-  "private": true,
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {
