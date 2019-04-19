@@ -16,9 +16,9 @@ Predict numbers using MNIST database with **TensorFlow.js** and **React.js**!
 
 ## Requirements
 
-* react - Recommended ^16.7.0
-* react-dom - Recommended ^16.7.0
-* @tensorflow/tfjs - Recommended ^0.14.2
+* react - Recommended ^16.8.6
+* react-dom - Recommended 16.8.6
+* @tensorflow/tfjs - Recommended ^1.1.0"
 
 ## Getting started
 
