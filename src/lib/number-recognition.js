@@ -17,7 +17,7 @@ export default class NumberRecognition extends Component {
   }
 
   async loadModel(){
-    this.model = await tf.loadModel('./assets/model.json');
+    this.model = await tf.loadLayersModel('./assets/model.json');
   }
 
   async predict(imageData) {
