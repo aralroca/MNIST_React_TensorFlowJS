@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MNIST_React_TensorFlowJS/precache-manifest.24bed50fd19cb3dc9607bf8ed34bba13.js"
+  "/MNIST_React_TensorFlowJS/precache-manifest.eae105f1158baa5d606b78327b4ccb29.js"
 );
 
 workbox.clientsClaim();

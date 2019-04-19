@@ -1,13 +1,13 @@
 {
-  "main.css": "/MNIST_React_TensorFlowJS/static/css/main.7ed55882.chunk.css",
-  "main.js": "/MNIST_React_TensorFlowJS/static/js/main.b059374d.chunk.js",
-  "main.js.map": "/MNIST_React_TensorFlowJS/static/js/main.b059374d.chunk.js.map",
-  "static/js/1.843e437a.chunk.js": "/MNIST_React_TensorFlowJS/static/js/1.843e437a.chunk.js",
-  "static/js/1.843e437a.chunk.js.map": "/MNIST_React_TensorFlowJS/static/js/1.843e437a.chunk.js.map",
-  "runtime~main.js": "/MNIST_React_TensorFlowJS/static/js/runtime~main.8759ce12.js",
-  "runtime~main.js.map": "/MNIST_React_TensorFlowJS/static/js/runtime~main.8759ce12.js.map",
-  "static/css/main.7ed55882.chunk.css.map": "/MNIST_React_TensorFlowJS/static/css/main.7ed55882.chunk.css.map",
+  "main.css": "/MNIST_React_TensorFlowJS/static/css/main.6a7110be.chunk.css",
+  "main.js": "/MNIST_React_TensorFlowJS/static/js/main.3d7bdc5b.chunk.js",
+  "main.js.map": "/MNIST_React_TensorFlowJS/static/js/main.3d7bdc5b.chunk.js.map",
+  "runtime~main.js": "/MNIST_React_TensorFlowJS/static/js/runtime~main.caf0878c.js",
+  "runtime~main.js.map": "/MNIST_React_TensorFlowJS/static/js/runtime~main.caf0878c.js.map",
+  "static/js/2.33185b3d.chunk.js": "/MNIST_React_TensorFlowJS/static/js/2.33185b3d.chunk.js",
+  "static/js/2.33185b3d.chunk.js.map": "/MNIST_React_TensorFlowJS/static/js/2.33185b3d.chunk.js.map",
   "index.html": "/MNIST_React_TensorFlowJS/index.html",
-  "precache-manifest.24bed50fd19cb3dc9607bf8ed34bba13.js": "/MNIST_React_TensorFlowJS/precache-manifest.24bed50fd19cb3dc9607bf8ed34bba13.js",
-  "service-worker.js": "/MNIST_React_TensorFlowJS/service-worker.js"
+  "precache-manifest.eae105f1158baa5d606b78327b4ccb29.js": "/MNIST_React_TensorFlowJS/precache-manifest.eae105f1158baa5d606b78327b4ccb29.js",
+  "service-worker.js": "/MNIST_React_TensorFlowJS/service-worker.js",
+  "static/css/main.6a7110be.chunk.css.map": "/MNIST_React_TensorFlowJS/static/css/main.6a7110be.chunk.css.map"
 }
