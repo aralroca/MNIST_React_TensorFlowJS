@@ -28,7 +28,7 @@ export default class NumberRecognition extends Component {
     await tf.tidy(() => {
       let maxProb = 0;
       let number;
-      let img = tf.fromPixels(imageData, 1);
+      let img = tf.browser.fromPixels(imageData, 1);
       img = img.reshape([1, 28, 28, 1]);
       img = tf.cast(img, 'float32');
     
