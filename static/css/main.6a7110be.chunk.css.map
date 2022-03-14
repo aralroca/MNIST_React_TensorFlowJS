@@ -1,1 +1,0 @@
-{"version":3,"sources":["/Users/aroca/mnist/src/style.css","main.6a7110be.chunk.css"],"names":[],"mappings":"AAAA,KACE,gBCCF,CDEA,GACE,eCCF","file":"main.6a7110be.chunk.css","sourcesContent":["h1, p {\n  font-family: Lato;\n}\n\nh1{\n  font-size: 120px;\n}","h1, p {\n  font-family: Lato;\n}\n\nh1{\n  font-size: 120px;\n}\n"]}
