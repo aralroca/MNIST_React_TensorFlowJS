@@ -2,7 +2,7 @@
   "name": "mnist-react-tfjs",
   "description": "This repo is a POC about using a trained Keras model with MNIST database with TensorFlow.js and React.js!",
   "homepage": "http://aralroca.github.io/MNIST_React_TensorFlowJS",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {
@@ -17,16 +17,16 @@
     "prepublish": "npm run build"
   },
   "devDependencies": {
-    "react-scripts": "2.1.8",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "@tensorflow/tfjs": "1.1.0",
-    "gh-pages": "2.0.1",
-    "@babel/cli": "7.4.3",
-    "@babel/core": "7.4.3",
-    "@babel/plugin-proposal-object-rest-spread": "7.4.3",
-    "@babel/preset-env": "7.4.3",
-    "@babel/preset-react": "7.0.0"
+    "react-scripts": "5.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "@tensorflow/tfjs": "3.14.0",
+    "gh-pages": "3.2.3",
+    "@babel/cli": "7.17.6",
+    "@babel/core": "7.17.7",
+    "@babel/plugin-proposal-object-rest-spread": "7.17.3",
+    "@babel/preset-env": "7.16.11",
+    "@babel/preset-react": "7.16.7"
   },
   "peerDependencies": {
     "react": "^16.8.6",
